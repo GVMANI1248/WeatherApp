@@ -1,0 +1,12 @@
+.details-table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .details-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  

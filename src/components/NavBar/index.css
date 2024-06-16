@@ -1,0 +1,18 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .toggle-button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 24px;
+  }
+  
+  .button1 {
+    color: white;
+  }
+  

@@ -1,0 +1,45 @@
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+body.light-mode {
+  background-color: #f0f0f0;
+  color: black;
+}
+
+.App {
+  text-align: center;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.error {
+  color: red;
+  margin-top: 20px;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+  .App-header {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .details-table {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .toggle-button {
+    font-size: 20px;
+  }
+}
