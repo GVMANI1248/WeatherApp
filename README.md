@@ -9,10 +9,6 @@ A simple weather application built with React, using the OpenWeatherMap API to f
 - Toggle between dark and light mode
 - View weather details for major cities in India
 
-## Screenshots
-
-![Screenshot](./screenshot.png)
-
 ## Technologies Used
 
 - React
@@ -55,4 +51,4 @@ src/
 - OpenWeatherMap API Documentation: https://openweathermap.org/api
 
 ## Website
-- Visit the live site here.
+- Visit the live site https://wetherappbygvm.netlify.app/.
